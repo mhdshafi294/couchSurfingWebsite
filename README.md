@@ -1,4 +1,6 @@
-# co8b34799a6b2cde7d574ec07
+# couchSurfing
+
+I built this project in a Scrimba course learning TypeScript
 
 Quick start:
 
